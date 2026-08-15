@@ -1,0 +1,4 @@
+interface:
+  display_name: "网文创作架构师"
+  short_description: "资深网文主编视角的小说创作体系，从灵感到大纲到章节的一站式服务"
+  default_prompt: "用xiaoshuo skill帮我创作这部网络小说的世界观、大纲和章节"
